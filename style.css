@@ -1,0 +1,32 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7c1e0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url('https://i.pinimg.com/564x/98/e5/6b/98e56b892068128186b4ceab78e6073e.jpg');
+            background-size: auto;
+            background-position: left;
+            background-repeat: repeat;
+        }
+
+        .container {
+            background-color: rgb(236, 63, 164);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
